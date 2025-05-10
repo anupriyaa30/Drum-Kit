@@ -1,43 +1,27 @@
-Drum Kit
+# 🥁 Drum Kit
 
-Welcome to my interactive Drum Kit project! This is a fun browser-based application built using HTML, CSS, and JavaScript. You can play different drum sounds either by pressing keyboard keys or by clicking on the buttons on the screen.
+Welcome to my interactive **Drum Kit** project! Built with HTML, CSS, and JavaScript, this fun browser-based application lets you play different drum sounds using either your keyboard or by clicking on-screen buttons.
 
-Live Demo: https://anupriyaa30.github.io/Drum-Kit/
+🔗 **Live Demo**: [Click here to try it out!](https://anupriyaa30.github.io/Drum-Kit/)
 
-Features:
+---
 
-Play drum sounds using specific keyboard keys (W, A, S, D, J, K, L)
+## 🎯 Features
 
-Clickable buttons that play drum sounds
+- Play drum sounds with keyboard keys (e.g., W, A, S, D, J, K, L)
+- Clickable buttons for each drum
+- Visual feedback when a sound is played
+- Fully responsive design
 
-Visual animation feedback when keys are pressed or buttons are clicked
+---
 
-Responsive and simple UI
+## 🛠️ Technologies Used
 
-Technologies Used:
+- HTML
+- CSS
+- JavaScript (Vanilla)
 
-HTML
+---
 
-CSS
+![image](https://github.com/user-attachments/assets/de7c015d-f24d-49ef-8f9e-f78a58f3593f)
 
-JavaScript
-
-How to Run:
-
-Clone the repository:
-git clone https://github.com/anupriyaa30/Drum-Kit.git
-
-Navigate into the project folder:
-cd Drum-Kit
-
-Open the index.html file in your browser to use the drum kit.
-
-Preview:
-(Insert a screenshot of your drum kit here if you have one)
-
-Credits:
-This project was inspired by Angela Yu’s Web Development Bootcamp on Udemy.
-
-Contact:
-Feel free to reach out with feedback or suggestions!
-GitHub: https://github.com/anupriyaa30
